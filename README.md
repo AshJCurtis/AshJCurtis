@@ -18,4 +18,4 @@ I'm in a band called **WOOED**. I also collect and listen to vinyl. And you know
 - 🎸 [WOOED on Instagram](https://www.instagram.com/wooedband)
 
 ## Coming soon
-I'm planning to share some of the tools I use in my work here, such as content audit templates, checklists and prompts.
+I'm planning to share some of the tools I use in my work here, such as my webpage audit scorecard.
