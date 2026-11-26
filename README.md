@@ -1,21 +1,18 @@
 # I'm Ash 👋
 
-I'm a digital content manager with 16 years of experience across charity, education, local government, digital marketing and sport. I've worked at big organisations like Parkinson's UK, Macmillan Cancer Support and Chichester College Group (CCG). And little ones too!
+**Digital content manager who turns big, messy websites into clear, useful ones.**
 
-I help organisations turn big, messy websites into clear, useful ones that people can actually use.
+I've spent 16 years in content across charity, education, local government, digital marketing and sport, at big organisations like Parkinson's UK, Macmillan Cancer Support and Chichester College Group (CCG). And little ones too! I work on content strategy, content design and governance, and I love training writers and editors and helping teams build good habits. Say hello on [LinkedIn](https://www.linkedin.com/in/ashleycurtis/) or catch my band on [Instagram](https://www.instagram.com/wooedband).
 
-## What I do
-- **Content strategy:** deciding what to publish, fix or archive, and who owns it
-- **Content design:** plain English, accessible and built around what users need
-- **Content governance:** standards, workflows and templates that keep a website healthy
-- **Leading content teams:** training writers and editors, and building good habits
+---
 
-## Outside work
-I'm in a band called **WOOED**. I also collect and listen to vinyl. And you know what? I'll never turn down a pizza if you're offering.
+### Currently
+- Putting together a webpage audit scorecard to share here soon
+- Making noise with my band, **WOOED**
+- Collecting vinyl and never turning down a pizza
 
-## Where to find me
-- 💼 [LinkedIn](https://www.linkedin.com/in/ashleycurtis/)
-- 🎸 [WOOED on Instagram](https://www.instagram.com/wooedband)
+---
 
-## Coming soon
-I'm planning to share some of the tools I use in my work here, such as my webpage audit scorecard.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashleycurtis/)
+[![WOOED on Instagram](https://img.shields.io/badge/WOOED-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/wooedband)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AshJCurtis)
