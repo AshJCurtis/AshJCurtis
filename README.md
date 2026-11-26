@@ -1,6 +1,6 @@
 # I'm Ash 👋
 
-**Digital content manager who turns big, messy websites into clear, useful ones.**
+**A digital content manager who turns big, messy websites into clear, useful ones.**
 
 I've spent 16 years doing content across charity, education, local government, and sport, at big organisations like Parkinson's UK, Macmillan Cancer Support and Chichester College Group (CCG). And little ones too! 
 
