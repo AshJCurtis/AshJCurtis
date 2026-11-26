@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ash 👋
 
-<!--
-**AshJCurtis/AshJCurtis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a digital content designer, manager and editor with 16 years of experience across charity, education, local government, digital marketing and sport. I've worked at Parkinson's UK, Macmillan Cancer Support and Chichester College Group.
 
-Here are some ideas to get you started:
+I help organisations turn big, messy websites into clear, useful ones that people can actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- **Content strategy:** deciding what to publish, fix or retire, and who owns it
+- **Content design:** plain English, accessible and built around what users need
+- **Content governance:** standards, workflows and templates that keep a site healthy
+- **Leading content teams:** coaching writers and editors and building good habits
+
+## Where to find me
+- 💼 [LinkedIn](https://www.linkedin.com/in/ashleycurtis/)
+
+## Coming soon
+I'm planning to share some of the tools I use in my work here, such as content audit templates, checklists and prompts.
