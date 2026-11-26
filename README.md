@@ -9,7 +9,7 @@ I've spent 16 years in content across charity, education, local government, digi
 ### Currently
 - Putting together a webpage audit scorecard to share here soon
 - Making noise with my band, **WOOED**
-- Collecting vinyl and never turning down a pizza
+- Collecting vinyl. Latest purchase: Roni Size / Reprazent - Brown Paper Bag 12"
 
 ---
 
