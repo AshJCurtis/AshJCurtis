@@ -5,13 +5,13 @@ I'm a digital content manager with 16 years of experience across charity, educat
 I help organisations turn big, messy websites into clear, useful ones that people can actually use.
 
 ## What I do
-- **Content strategy:** deciding what to publish, fix or retire, and who owns it
+- **Content strategy:** deciding what to publish, fix or archive, and who owns it
 - **Content design:** plain English, accessible and built around what users need
-- **Content governance:** standards, workflows and templates that keep a site healthy
-- **Leading content teams:** coaching writers and editors and building good habits
+- **Content governance:** standards, workflows and templates that keep a website healthy
+- **Leading content teams:** training writers and editors, and building good habits
 
 ## Outside work
-I'm in a band called **WOOED**. I also collect and listen to vinyl, and you know what? I'll never turn down a pizza if you're offering.
+I'm in a band called **WOOED**. I also collect and listen to vinyl. And you know what? I'll never turn down a pizza if you're offering.
 
 ## Where to find me
 - 💼 [LinkedIn](https://www.linkedin.com/in/ashleycurtis/)
