@@ -10,7 +10,7 @@ I help organisations turn big, messy websites into clear, useful ones that peopl
 - **Content governance:** standards, workflows and templates that keep a site healthy
 - **Leading content teams:** coaching writers and editors and building good habits
 
-- ## Outside work
+## Outside work
 I'm in a band called **WOOED**. I also collect and listen to vinyl, and you know what? I'll never turn down a pizza if you're offering.
 
 ## Where to find me
