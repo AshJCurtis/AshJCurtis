@@ -9,7 +9,7 @@ I work on content strategy, content design and governance. But I love training w
 ---
 
 ### Currently
-- Putting together a webpage audit scorecard to share here soon
+- Thinking about incremental updates to my webpage audit scorecard
 - Making noise with my band, **WOOED**
 - Collecting vinyl. Latest purchase: Roni Size / Reprazent - Brown Paper Bag 12"
 
